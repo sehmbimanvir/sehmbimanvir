@@ -1,5 +1,7 @@
 ### Manvir Singh 👳
 
+I am working as a Full Stack Developer (MERN). I have also worked on VueJS and Laravel. I like to create scripts, tweaks to make things easier.
+
 <!--
 **sehmbimanvir/sehmbimanvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
