@@ -1,10 +1,16 @@
 # Manvir Singh 👳
 ### Full Stack Developer • Node • ReactJS • MongoDB • PHP • MySQL 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-333333?logo=Linkedin&link=(https://www.linkedin.com/in/manvir-singh-0b2790a4/))](https://www.linkedin.com/in/manvir-singh-0b2790a4/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?logo=Twitter&link=(https://twitter.com/sehmbimanvir/))](https://twitter.com/sehmbimanvir/)
-
 I am working as a Full Stack Developer (MERN). I have also worked on VueJS and Laravel. I like to create scripts, tweaks to make things easier.
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://manvir.dev]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/sehmbimanvir]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/manvir-singh-0b2790a4/]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/io]
+
+<br />
 
 <!--
 **sehmbimanvir/sehmbimanvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
