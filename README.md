@@ -66,7 +66,11 @@ const manvir = {
 
 <br/>
 
-![Manvir's github stats](https://github-readme-stats.vercel.app/api?username=sehmbimanvir&show_icons=true&icon_color=000000)](https://manvir.dev)
+<br />
+
+![Manvir's github stats](https://github-readme-stats.vercel.app/api?username=sehmbimanvir&show_icons=true&icon_color=000000)
+
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehmbimanvir&layout=compact)
 
