@@ -1,7 +1,16 @@
 ### Hi there, I'm Manvir Singh [manvir.dev](https://manvir.dev)
 ### Full Stack Developer • Node • ReactJS • MongoDB • PHP • MySQL 
 
-<!--I am working as a Full Stack Developer (MERN). I have also worked on VueJS and Laravel. I like to create scripts, tweaks to make things easier. -->
+```javascript
+const manvir = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, PHP],
+  tools: [React, Redux, Node, Laravel Lumen],
+  database: [MySQL, MongoDB]
+}
+```
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on [Torrent Search Engine](https://torrents.manvir.dev)
 - 🌱 I’m currently learning **Generator Functions**
