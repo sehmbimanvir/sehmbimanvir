@@ -51,6 +51,8 @@
 
 <img align="left" alt="PHP" width="40px" src="https://github.com/tomchen/stack-icons/raw/master/logos/php.svg">
 
+<img align="left" alt="PHP" width="30px" src="https://github.com/tomchen/stack-icons/raw/master/logos/laravel.svg">
+
 <br />
 
 <!--
