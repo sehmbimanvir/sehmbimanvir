@@ -81,7 +81,7 @@ const manvir = {
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Torrent Search Engine](https://torrents.manvir.dev)
+- 🔭 I’m currently working on [Torrent Search Engine](https://tz.manvir.dev)
 - 🌱 I’m currently learning **Generator Functions**
 - 🤔 I’m looking for help with **MongoDB Aggregations**
 - 💬 Ask me about **Laravel, React, Web Scrapping/Crawling**
